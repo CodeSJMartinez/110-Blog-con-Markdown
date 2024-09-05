@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Crear un Sitio Web Simple con Categorías y un Blog con-Markdown
 
 Hemos creado un sitio web estático con HTML, CSS y JavaScript, que incluye un blog basado en archivos Markdown. El sitio es fácil de mantener y se puede desplegar fácilmente en GitHub Pages. Este ejercicio es ideal para principiantes. Donde la estructura del proyecto es la base para escalar este proyecto en una segunda etapa. 
@@ -67,10 +66,7 @@ CSS se encarga de cómo se verá tu sitio web. Una buena hoja de estilos asegura
 ### Paso 7: Despliegue en GitHub Pages
 
 **¿Qué estamos haciendo aquí?**
-Estamos subiendo nuestro proyecto a GitHub y habilitando GitHub Pages para que nuestro sitio esté disponible en la web.
+Estamos subiendo nuestro proyecto a GitHub y es posible habilitar GitHub Pages para que nuestro sitio esté disponible en la web.
 
 **¿Por qué es importante?**
 GitHub Pages es una forma gratuita y fácil de desplegar sitios web estáticos. Al seguir estos pasos, nuestro sitio web se vuelve accesible en línea, sin necesidad de configurar un servidor.
-=======
-# 111-Blog-con-Markdown-Mejorado-Ejercicio-1
->>>>>>> 79ac77d4a2402fcb51b538dedb392f108d30f11c
